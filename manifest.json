@@ -1,0 +1,11 @@
+{
+    "id": "kk-date-stamper",
+    "name": "KK-Date Stamper",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "설정한 형식대로 날짜와 시간을 삽입합니다.",
+    "author": "Nero-kk",
+    "youtube": "https://www.youtube.com/@Nero-kk",
+    "authorUrl": "https://github.com/Nero-kk",
+    "isDesktopOnly": false
+}
